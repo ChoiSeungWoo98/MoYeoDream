@@ -34,6 +34,7 @@ MoYeoDream은 스터디 및 채용 공고를 관리하고 소통할 수 있는 �
 
 ## 📁 Project Structure
 MoYeoDream
+```
 ├── 📁 src
 │   ├── 📁 main
 │   │   ├── 📁 java
@@ -50,6 +51,7 @@ MoYeoDream
 │   │       └── application.properties
 │   └── ...
 └── ...
+```
 
 ## 🚀 Getting Started
 
